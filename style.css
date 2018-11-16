@@ -1,0 +1,170 @@
+p
+{
+    width: 810px;
+    margin: auto;
+    font-size: 1em;
+    font-family: 'Open Sans', Arial;
+
+}
+h1, h2, h3, li, hr
+{
+    width: 810px;
+    margin: auto;
+    font-size: 1em;
+    font-family: 'Open Sans', Arial; 
+}
+blockquote
+{
+    width: 600px;
+    margin: auto;
+    font-size: 1em
+}
+h1
+{
+    font-size: 2.30em;
+    font-family: 'Open Sans'
+}
+h2
+{
+    font-size: 1.60em
+}
+h3
+{
+    font-size: 1.25em
+}
+.format
+{
+    font-style: italic
+}
+.bld
+{
+    font-weight: bold
+}
+.ln
+{
+    text-decoration: underline;
+    color: red;
+    font-weight: bold;
+    font-size: 1.3em
+}
+.lne
+{
+    text-decoration: underline;
+}
+.pt
+{
+    font-size: 0.4em
+}
+.ct
+{
+    font-size: 0.6em
+}
+.flottant
+{
+    float: left;
+    margin: left;
+}
+.tl 
+{
+    font-size: 0.79em
+}
+.bl 
+{
+    color: blue
+}
+.vl
+{
+    color: #8D0091
+}
+.ti
+{
+    font-size: 0.9em
+}
+.gr
+{
+    font-weight: bold
+}
+.pti
+{
+    font-size: 0.6em
+}
+.tk
+{
+    font-size: 2.5em
+}
+.ctr
+{
+    width: 800;
+    margin: auto;
+}
+.colored
+{
+    color:#313131;
+    font-size: 1.15em;
+    width: 830px;
+    margin: auto;
+    
+     -webkit-animation:colorchange 5s infinite
+     alternate;
+}
+
+@-webkit-keyframes colorchange {
+    0% {
+      
+      color: blue;
+    }
+    
+    10% {
+      
+      color: #8e44ad;
+    }
+    
+    20% {
+      
+      color: #1abc9c;
+    }
+    
+    30% {
+      
+      color: #d35400;
+    }
+    
+    40% {
+      
+      color: navy;
+    }
+    
+    50% {
+      
+      color: #34495e;
+    }
+    
+    60% {
+      
+      color: blue;
+    }
+    
+    70% {
+      
+      color: #2980b9;
+    }
+    80% {
+   
+      color: #f1c40f;
+    }
+    
+    90% {
+   
+      color: #2980b9;
+    }
+    
+    100% {
+      
+      color: pink;
+    }
+  }
+    
+  .tli
+  {
+      font-size: 0.92
+  }
